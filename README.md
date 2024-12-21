@@ -30,3 +30,8 @@ The goal is to transmit audio-encoded data in extremely short bursts while prese
    ```bash
    git clone https://github.com/rabbyt3s/Accelerated-DTMF-Transmission.git
    cd Accelerated-DTMF-Transmission
+
+2. Install depencencies:
+   ```bash
+   pip install numpy scipy matplotlib soundfile sounddevice
+
