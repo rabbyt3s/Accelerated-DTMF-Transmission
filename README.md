@@ -139,4 +139,3 @@ Feel free to fork the repository, report issues, or suggest improvements!
 ## References
 - **Alan V. Oppenheim, Ronald W. Schafer.** _Discrete-Time Signal Processing_, 3rd Edition, Prentice Hall, 2009.  
 - **[SciPy Documentation on `resample_poly`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.resample_poly.html)**
-```
